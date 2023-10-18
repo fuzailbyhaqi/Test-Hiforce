@@ -1,0 +1,3 @@
+[submodule "Android-HiForce"]
+	path = Android-HiForce
+	url = ../../UMAIR9235/hiforce.git
